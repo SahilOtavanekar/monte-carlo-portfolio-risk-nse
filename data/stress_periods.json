@@ -1,0 +1,44 @@
+{
+  "covid_2020": {
+    "start": "2020-01-20",
+    "end": "2020-03-23",
+    "label": "COVID-19 Crash",
+    "description": "Global pandemic — fastest 30% drawdown in NSE history. FII panic selling, circuit breakers triggered.",
+    "key_risk": "Black swan systemic shock; all sectors sold off simultaneously"
+  },
+  "gfc_2008": {
+    "start": "2008-09-01",
+    "end": "2009-03-09",
+    "label": "Global Financial Crisis",
+    "description": "Lehman Brothers collapse triggered a global credit freeze. NIFTY fell ~55% from peak to trough.",
+    "key_risk": "Global credit contagion; financial sector and real estate worst hit"
+  },
+  "dotcom_2000": {
+    "start": "2000-03-01",
+    "end": "2002-10-09",
+    "label": "Dot-com Bust",
+    "description": "Technology and internet sector bubble burst. Indian IT stocks (Infosys, Wipro, TCS) saw severe drawdowns.",
+    "key_risk": "Sector concentration risk; technology and telecom worst hit"
+  },
+  "demonetization_2016": {
+    "start": "2016-11-08",
+    "end": "2016-12-31",
+    "label": "Demonetization Shock",
+    "description": "Government overnight demonetized ₹500 and ₹1000 notes — uniquely Indian domestic liquidity shock.",
+    "key_risk": "Consumer discretionary, NBFC, and small-cap stocks hit hardest"
+  },
+  "ilfs_crisis_2018": {
+    "start": "2018-09-21",
+    "end": "2018-10-19",
+    "label": "IL&FS Credit Crisis",
+    "description": "IL&FS defaulted on ₹91,000 Cr debt, triggering NBFC and credit market contagion across Indian financial sector.",
+    "key_risk": "NBFC liquidity freeze; financial sector and real estate contagion"
+  },
+  "rate_hike_fii_2022": {
+    "start": "2022-01-01",
+    "end": "2022-06-17",
+    "label": "FII Selloff / Rate Hike Cycle",
+    "description": "US Fed rate hike cycle caused global FII outflows from emerging markets. Rising cost of capital hit growth stocks.",
+    "key_risk": "Foreign institutional outflows; rising bond yields vs equity returns"
+  }
+}

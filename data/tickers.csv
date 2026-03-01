@@ -1,0 +1,51 @@
+ticker,company_name,sector
+ADANIENT.NS,Adani Enterprises Ltd,Industrials
+ADANIPORTS.NS,Adani Ports and Special Economic Zone Ltd,Industrials
+APOLLOHOSP.NS,Apollo Hospitals Enterprise Ltd,Healthcare
+ASIANPAINT.NS,Asian Paints Ltd,Consumer Staples
+AXISBANK.NS,Axis Bank Ltd,Financials
+BAJAJ-AUTO.NS,Bajaj Auto Ltd,Consumer Discretionary
+BAJAJFINSV.NS,Bajaj Finserv Ltd,Financials
+BAJFINANCE.NS,Bajaj Finance Ltd,Financials
+BHARTIARTL.NS,Bharti Airtel Ltd,Communication Services
+BPCL.NS,Bharat Petroleum Corporation Ltd,Energy
+BRITANNIA.NS,Britannia Industries Ltd,Consumer Staples
+CIPLA.NS,Cipla Ltd,Healthcare
+COALINDIA.NS,Coal India Ltd,Energy
+DIVISLAB.NS,Divi's Laboratories Ltd,Healthcare
+DRREDDY.NS,Dr. Reddy's Laboratories Ltd,Healthcare
+EICHERMOT.NS,Eicher Motors Ltd,Consumer Discretionary
+GRASIM.NS,Grasim Industries Ltd,Materials
+HCLTECH.NS,HCL Technologies Ltd,Information Technology
+HDFCBANK.NS,HDFC Bank Ltd,Financials
+HDFCLIFE.NS,HDFC Life Insurance Company Ltd,Financials
+HEROMOTOCO.NS,Hero MotoCorp Ltd,Consumer Discretionary
+HINDALCO.NS,Hindalco Industries Ltd,Materials
+HINDUNILVR.NS,Hindustan Unilever Ltd,Consumer Staples
+ICICIBANK.NS,ICICI Bank Ltd,Financials
+INDUSINDBK.NS,IndusInd Bank Ltd,Financials
+INFY.NS,Infosys Ltd,Information Technology
+ITC.NS,ITC Ltd,Consumer Staples
+JSWSTEEL.NS,JSW Steel Ltd,Materials
+KOTAKBANK.NS,Kotak Mahindra Bank Ltd,Financials
+LT.NS,Larsen & Toubro Ltd,Industrials
+M&M.NS,Mahindra & Mahindra Ltd,Consumer Discretionary
+MARUTI.NS,Maruti Suzuki India Ltd,Consumer Discretionary
+NESTLEIND.NS,Nestle India Ltd,Consumer Staples
+NTPC.NS,NTPC Ltd,Utilities
+ONGC.NS,Oil and Natural Gas Corporation Ltd,Energy
+POWERGRID.NS,Power Grid Corporation of India Ltd,Utilities
+RELIANCE.NS,Reliance Industries Ltd,Energy
+SBILIFE.NS,SBI Life Insurance Company Ltd,Financials
+SBIN.NS,State Bank of India,Financials
+SHREECEMT.NS,Shree Cement Ltd,Materials
+SUNPHARMA.NS,Sun Pharmaceutical Industries Ltd,Healthcare
+TATACONSUM.NS,Tata Consumer Products Ltd,Consumer Staples
+TATAMOTORS.NS,Tata Motors Ltd,Consumer Discretionary
+TATASTEEL.NS,Tata Steel Ltd,Materials
+TCS.NS,Tata Consultancy Services Ltd,Information Technology
+TECHM.NS,Tech Mahindra Ltd,Information Technology
+TITAN.NS,Titan Company Ltd,Consumer Discretionary
+ULTRACEMCO.NS,UltraTech Cement Ltd,Materials
+WIPRO.NS,Wipro Ltd,Information Technology
+ZOMATO.NS,Zomato Ltd,Consumer Discretionary

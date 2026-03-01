@@ -1,0 +1,36 @@
+# ============================================================
+# Stock Assessment — Global Configuration
+# ============================================================
+# ⚠️  NEVER hardcode these values in any src/ module.
+#     Always load via: import yaml; cfg = yaml.safe_load(open("config.yaml"))
+# ============================================================
+
+# --- Market & Rate Assumptions ---
+risk_free_rate: 0.065           # Annual rate — update when RBI changes repo rate
+benchmark_ticker: "^NSEI"       # NIFTY 50 Index
+
+# --- Data Settings ---
+data_start: "2020-01-01"        # Historical data start date
+data_end: null                  # null = today's date (resolved at runtime)
+
+# --- Portfolio Constraints ---
+max_weight_per_stock: 0.40      # Maximum single-stock allocation (40%)
+min_stocks: 3                   # Minimum stocks required for optimization
+max_stocks: 15                  # Maximum stocks allowed in portfolio
+
+# --- Rebalancing ---
+rebalancing_frequency: "Q"      # Q = quarterly | M = monthly | null = buy-and-hold
+transaction_cost: 0.001         # Round-trip cost: brokerage + STT (~0.1%)
+
+# --- Monte Carlo ---
+monte_carlo_paths: 10000
+monte_carlo_horizon_years: 3
+
+# --- Risk Metrics ---
+var_confidence: 0.95            # 95% confidence level for VaR / CVaR
+trading_days_per_year: 252      # NSE standard
+
+# --- Data Quality Thresholds ---
+max_missing_data_pct: 0.02      # Flag stock if >2% data missing in selected period
+max_forward_fill_days: 2        # Only fill gaps ≤ 2 trading days
+stale_price_threshold: 3        # Flag if same price repeats > 3 consecutive days
